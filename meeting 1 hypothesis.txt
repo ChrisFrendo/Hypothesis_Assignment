@@ -1,0 +1,15 @@
+Ideas 
+
+- Difference in rating between paid apps and free apps
+-frequency of ratings for genres
+
+- piechart of free apps vs paid apps
+-Histogram based on installs
+-box plot reviews?
+-scatter plot: size vs installs
+		rating vs installs
+		rating vs size	
+		rating vs reviews
+
+
+Measures of locations: Size, reviews and rating
