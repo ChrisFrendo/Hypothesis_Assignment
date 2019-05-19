@@ -1,0 +1,1 @@
+In both scatterplots a majority of the points seem to cluster next to each other. However, there also seem to be a lot of outliers, so it is difficult to tell if there is a corellation between the two covariates at this stage.
