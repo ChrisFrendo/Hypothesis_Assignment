@@ -1,0 +1,25 @@
+[Rating vs No of Installs]
+
+None of the categories have normal populations. -> Kruskal-Wallis
+
+Null-hypothesis is rejected.
+
+Post-hoc: all of the values are different from each other (all with p-values < 0.05)
+
+--------------------------------------------------------------------------------------------------------------------------
+[Rating vs Content Rating]
+
+None of the categories have normal populations. -> Kruskal-Wallis
+
+Null-hypothesis is rejected.
+
+Post-hoc: The major contributors to the differences between groups are given by 17+ - 10+, Everyone - 10+, and Teen - 10+
+
+--------------------------------------------------------------------------------------------------------------------------
+[Rating vs Type]
+
+Neither category of type is normal -> Mann-Whitney
+
+Null-hypothesis is rejected: the means are different.
+
+From the means it looks like paid apps are rated less on average.
